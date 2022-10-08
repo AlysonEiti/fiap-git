@@ -1,0 +1,6 @@
+Padroes:
+Painel de navegação no topo 
+Paleta de cores 
+Tipografia 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">

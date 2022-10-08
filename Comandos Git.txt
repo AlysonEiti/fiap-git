@@ -1,0 +1,17 @@
+Mostrar diretorio
+pwd
+
+Limpar tela 
+clear
+
+Detalhar itens do diretório 
+ls -la
+
+Criar diretório 
+mkdir nome-pasta 
+
+Inicializar Git
+git init
+
+Mostra o estado do diretório 
+git status
