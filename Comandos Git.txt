@@ -47,3 +47,11 @@ Definindo onde será enviado (origin)
 git remote add origin https://github.com/AlysonEiti/fiap-git.git
 git remote -v (Mostra informações adicionais)
 
+Enviar informações para diretório (origin)
+git push origin main
+
+Clonando arquivo para repositorio (baixando)
+git clone https://github.com/AlysonEiti/fiap-git
+
+Acessando de outra maquina
+git pull origin main
