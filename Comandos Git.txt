@@ -1,3 +1,6 @@
+Documentação completa do Git
+https://devhints.io/git-log
+
 Mostrar diretorio
 pwd
 
@@ -27,3 +30,11 @@ git config user.name
 
 Guardar estado atual 
 git commit -m "Versão 01"
+
+Mostrar log 
+git log 
+git log -p (mostra mais detalhes 
+q (sai do log)
+git log --pretty="format:%h %ae %an"	(Hash, email e nome do autor)
+git log --grep="Incluso"		(Pesquisa por mensagem)
+
