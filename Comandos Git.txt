@@ -38,3 +38,12 @@ q (sai do log)
 git log --pretty="format:%h %ae %an"	(Hash, email e nome do autor)
 git log --grep="Incluso"		(Pesquisa por mensagem)
 
+Ignorando arquivo do monitoramento, criar arquivo .gitignore e incluir dentro do arquivo
+
+Alterando branch para main
+git branch -M main
+
+Definindo onde será enviado (origin)
+git remote add origin https://github.com/AlysonEiti/fiap-git.git
+git remote -v (Mostra informações adicionais)
+
