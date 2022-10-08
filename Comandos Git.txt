@@ -15,3 +15,15 @@ git init
 
 Mostra o estado do diretório 
 git status
+
+Incluir arquivo no monitoramento (colocar entre '' caso tenha caracter especial)
+git add <file> (adiciona o arquivo em questão)
+git add . (adiciona tudo que estiver no diretorio)
+
+Configurar git (Defini quem está fazendo as alterações) 
+git config --local user.name "Alyson Eiti"
+git config --local user.email "alyson_eiti@outlook.com" 
+git config user.name
+
+Guardar estado atual 
+git commit -m "Versão 01"
